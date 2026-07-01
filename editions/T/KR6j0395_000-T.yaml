@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0395/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經瑜伽文殊師利菩薩法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1171.xml
+    old_id: T20n1171
+hash: sha256:76505af02a9b1138221eb26b034e4d1befa5aeb7f5a64e3ecd10238099ae3626

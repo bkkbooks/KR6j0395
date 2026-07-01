@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6j0395/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0395/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經瑜伽文殊師利菩薩法
+  identifiers:
+    krp: KR6j0395
+    cbeta: T20n1171
+    cbeta_old_id: T20n1171
+    authorityid: CA0001634
+    json_key: T1171
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1171.xml
+    old_id: T20n1171
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0395_000-T.yaml, hash: 'sha256:76505af02a9b1138221eb26b034e4d1befa5aeb7f5a64e3ecd10238099ae3626'}
+  - {seq: 1, filename: KR6j0395_001-T.yaml, hash: 'sha256:bdeea516d6263279655b3183b3df430c1e62f2b83628b3062eebfc2fbdd9c950'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0395_000-T.markers.yaml, hash: 'sha256:3922af38e994196dfda1b95837220c23a2d805e90e9377c2e7d0cefc6929ab2b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0395_001-T.markers.yaml, hash: 'sha256:12296478e250338ec64b82f0ea09fb29a4edbd24ad865cd40abfb190d77e2f96'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0395_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4547
+  label: '金剛頂經瑜伽文殊師利菩薩法
+
+    一品亦名五字呪法'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0395_T_001-mulu-1
+    span:
+    - body
+    - 877
+    - 877
+  label: 金剛頂經瑜伽文殊師利菩薩儀軌供養法品
+  type: mulu
+  level: 1
+hash: sha256:ea5ee967cd6af0c8d15e9a836668e7626456547721e7ec8f3a9a57a5dc76c7ca
