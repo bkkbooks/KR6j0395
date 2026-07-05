@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0395_000.yaml, hash: 'sha256:76505af02a9b1138221eb26b034e4d1befa5aeb7f5a64e3ecd10238099ae3626'}
-  - {seq: 1, filename: KR6j0395_001.yaml, hash: 'sha256:8e7ec2bd49492bf716915e5dc16e1dc72d7ee23a9fd63643b3b764f0a45b189b'}
+  - {seq: 1, filename: KR6j0395_001.yaml, hash: 'sha256:bdeea516d6263279655b3183b3df430c1e62f2b83628b3062eebfc2fbdd9c950'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0395_001.markers.yaml, hash: 'sha256:e625ae786405d4805d729e99f9821915d9efc98114ff2416aa57cad532326243'}
+  - {seq: 0, role: markers, filename: assets/KR6j0395_000.markers.yaml, hash: 'sha256:b131956974e513c5964a62a44491cce87bd2865e0965dee2f59588363be14ca7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0395_001.markers.yaml, hash: 'sha256:3539d86a645db261aac4f2b4a70749aac9bd48f1641e199eca9d968c8511db68'}
 table_of_contents:
 - ref:
     seq: 1
@@ -60,7 +61,4 @@ table_of_contents:
   label: 金剛頂經瑜伽文殊師利菩薩儀軌供養法品
   type: mulu
   level: 1
-hash: sha256:e567f096edcb674588dff6be8e79cad86ea0ad845457a7f5cb4ff825ee7cc687
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:27a4892ea7db0350b3d502fdb3d12dfac02bec4b3c07a275efbb9ebe4188cc0e
