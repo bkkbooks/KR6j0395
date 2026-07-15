@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0395/v1
 canonical_location: https://kanripo.org/bkk/KR6j0395/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂經瑜伽文殊師利菩薩法
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0395_000.yaml, hash: 'sha256:76505af02a9b1138221eb26b034e4d1befa5aeb7f5a64e3ecd10238099ae3626'}
-  - {seq: 1, filename: KR6j0395_001.yaml, hash: 'sha256:bdeea516d6263279655b3183b3df430c1e62f2b83628b3062eebfc2fbdd9c950'}
+  - {seq: 1, filename: KR6j0395_001.yaml, hash: 'sha256:2c4277e152a4f60a94fa3846e2c4fb308fb41cdc5af06c6400cf11b8cd12ecf6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0395_000.markers.yaml, hash: 'sha256:b131956974e513c5964a62a44491cce87bd2865e0965dee2f59588363be14ca7'}
-  - {seq: 1, role: markers, filename: assets/KR6j0395_001.markers.yaml, hash: 'sha256:3539d86a645db261aac4f2b4a70749aac9bd48f1641e199eca9d968c8511db68'}
+  - {seq: 1, role: markers, filename: assets/KR6j0395_001.markers.yaml, hash: 'sha256:28114254d2de123a1704dfeefc8a3781d183e6df142859b2263b936f2142b0a2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -61,4 +61,7 @@ table_of_contents:
   label: 金剛頂經瑜伽文殊師利菩薩儀軌供養法品
   type: mulu
   level: 1
-hash: sha256:27a4892ea7db0350b3d502fdb3d12dfac02bec4b3c07a275efbb9ebe4188cc0e
+hash: sha256:2931ab123ea1e7860de0d26d46e9119693febbaefeb877cb4c5ddf1fb0c3ef08
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
